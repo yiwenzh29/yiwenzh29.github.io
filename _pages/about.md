@@ -10,11 +10,4 @@ redirect_from:
 
 I am Yiwen Zhang, a PhD candidate in Linguistics at the department of Linguistics, Indiana University. My Research interests are formal semantics, sentence processing and computational semantics.
 
-A data-driven personal website
-======
-etc.
-
-Getting started
-======
-etc.
 
