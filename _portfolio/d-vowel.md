@@ -1,5 +1,5 @@
 ---
 title: "Vowel Raising in the Chengdu Dialect of Mandarin"
-excerpt: "Advisor: Dr.de Jong, Ken"
+excerpt: "with Hai Hu, Aini Li and Phillip Weirich"
 collection: research
 ---
