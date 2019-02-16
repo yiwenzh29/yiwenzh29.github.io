@@ -16,18 +16,6 @@ Education
 * Master of Arts in Linguistics, Indiana University, 2016
 * Ph.D in Linguistics, Indiana University, 2020 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
 Research Experience
 ======
   <ul>{% for post in site.portfolio %}
