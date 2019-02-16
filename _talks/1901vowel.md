@@ -4,8 +4,8 @@ collection: talks
 type: "Poster Presentation"
 permalink: /presentations/1901lsa
 venue: "The 93rd Annual Meeting of the Linguistic Society of America"
-date: Jan 2019
-location: "New York City, New York"
+date: 2019-01-03
+location: "New York City, NY"
 ---
-This project investigates vowel raising in the Chengdu dialect of Mandarin.
+
 
