@@ -7,4 +7,4 @@ venue: "The 29th North America Conference on Chinese Linguistics"
 date: 2017-06-18
 location: "Rutgers, NJ"
 ---
-[Download paper here](http://yiwenzh29.github.io/files/2017-naccl-vowel-proceeding.pdf)
+[paper](http://yiwenzh29.github.io/files/2017-naccl-vowel-proceeding.pdf)
