@@ -10,5 +10,3 @@ by Yuhong Zhu, Skylor E. Gomes, Junyu Ruan, Qian Wang, Seo-Jin Yang, Jinwei Ye, 
 ---
 
 [Download paper here](http://yiwenzh29.github.io/files/2019-aspectual-guo-under-control.pdf)
-
-Recommended citation: Grano, Thomas and Zhang. (2019). "Getting aspectual <i>-guo</i> under control in Mandarin Chinese: An experimental investigation." <i>Proceedings of the 30th North American Conference on Chinese Linguistics (NACCL-30)</i>. Volume 1. Edited by Yuhong Zhu, Skylor E. Gomes, Junyu Ruan, Qian Wang, Seo-Jin Yang, Jinwei Ye, Wei Zhou. Columbus, Ohio: The Ohio State University. Pages 208-215.
