@@ -22,26 +22,12 @@ Research Experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Language Skills
-======
-* Native: Chinese (Mandarin and Cantonese)
-* Basic Fluency: German
-* Course credit: Japanese, French
-
-Computer Skills
-=====
-* Operating System: Windows, Linux and Macintosh
-* Statistics: SPSS, R
-* Programming: Python, Java
-* Experiment: Linger, SR Research Experiment Builder
-* Microsoft office, Adobe
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Presentations
 ======
   <ul>{% for post in site.talks %}
@@ -56,8 +42,27 @@ Teaching
   
 Honors and Awards
 ======
+* Householder Research Funds, Indiana University (2019)
 * Householder Research Funds, Indiana University (2017)
 * Student Conference Fund Travel Grant, Indiana University (2017)
 * HKU Worldwide Undergraduate Student Exchange Scholarship, University 
 of Hong Kong (2013)
 * Soong Ching Ling Scholarship, China (2010)
+
+Language Skills
+======
+* Native: Chinese (Mandarin and Cantonese)
+* Basic Fluency: German
+* Course credit: Japanese, French
+
+Computer Skills
+=====
+* Programming: Python, Java
+* Machine Learning: TensorFlow, Pytorch, scikit-learn
+* Natural Language Processing: NLTK, Stanford CoreNLP, SpaCy, Gensim, Amazon Comprehend
+* Data Analysis: SPSS, R, NumPy, pandas
+* Database: PostgreSQL
+* Source Control: Git
+* Experiment: Linger, SR Research Experiment Builder
+
+ 
