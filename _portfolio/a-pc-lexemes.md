@@ -1,7 +1,6 @@
 ---
 title: "Nominal Property Concepts and Substance Possession in Chinese"
-excerpt: "Dissertaion in progress;<br/>
-"
+excerpt: "Dissertaion in progress"
 collection: research
 ---
 [Paper](https://yiwenzh29.github.io/publication/2020-nominal-property-concepts-mandarin) published in Journal of East Asian Linguistics, 2020<br/>
