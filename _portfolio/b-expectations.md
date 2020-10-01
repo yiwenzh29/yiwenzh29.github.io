@@ -1,6 +1,6 @@
 ---
 title: "Expectation and Interference in Constructing Long-Distance Dependencies in Chinese"
-excerpt: "with Chien-Jer Charles Lin and Hai Hu, 2017 - 2019"
+excerpt: "with Chien-Jer Charles Lin and Hai Hu"
 collection: research
 ---
 [Poster](https://yiwenzh29.github.io/presentations/1803cuny) Presentation at the 31st Annual CUNY Sentence Processing Conference, Davis, CA, Mar 17, 2018;<br/>
