@@ -1,6 +1,6 @@
 ---
 title: "Aspects Under Control in Mandarin Chinese"
-excerpt: "with Thomas Grano <br/>"
+excerpt: "with Thomas Grano"
 collection: research
 ---
 
